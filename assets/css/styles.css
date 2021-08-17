@@ -102,6 +102,8 @@ html {
 
 body {
   margin: 0 0 var(--header-height) 0;
+  margin-right: auto;
+  margin-left: auto;
   font-family: var(--body-font);
   font-size: var(--normal-font-size);
   background-color: var(--body-color);
@@ -290,7 +292,10 @@ img {
 }
 
 .home__blob-img {
-  width: 170px;
+  width: 190px;
+  
+  
+  
 }
 
 .home__data {
